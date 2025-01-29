@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (username.toLowerCase() === "monika".toLowerCase()) {
     window.location.href = "https://cyberkillert.github.io/Love";  // Replace with your desired link
 } else {
-    alert("Username is incorrect.");
+    alert("the page not for you 🤪");
 }
     });
 });
